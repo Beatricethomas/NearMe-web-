@@ -153,9 +153,23 @@ place5.html
 
 ## OUTPUT
 
+![map (2)](https://github.com/Beatricethomas/NearMe-web-/assets/140035214/56f1cb61-1ff7-432f-8a1e-12e7e48aae7e)
+
+
+![place1](https://github.com/Beatricethomas/NearMe-web-/assets/140035214/13671495-6a43-4ff0-bbfc-010b610f3264)
+
+
+![place2](https://github.com/Beatricethomas/NearMe-web-/assets/140035214/d6d0186b-e37a-4c63-a930-dd7a3d1cadac)
+
+
+![place3](https://github.com/Beatricethomas/NearMe-web-/assets/140035214/e5abd911-8072-4d93-9acc-750f2a660a8a)
+
+
+![place4](https://github.com/Beatricethomas/NearMe-web-/assets/140035214/bec3f02b-69b4-474a-8bba-75909486596b)
 
 
 
+![place5](https://github.com/Beatricethomas/NearMe-web-/assets/140035214/fbfe7477-f6ec-420c-84a5-427443706a5c)
 
 
 
